@@ -1,0 +1,9 @@
+ <style>
+        /* Estilos para el encabezado */
+        h1 {
+            font-size: 50px;      /* Tamaño del texto */
+            color: #2C3E50;       /* Color del texto */
+            text-align: center;   /* Centrar en la página */
+            font-family: Arial, Helvetica, sans-serif; /* Fuente */
+        }
+    </style>
